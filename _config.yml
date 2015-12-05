@@ -1,0 +1,28 @@
+name: Danny Dukes Riggio
+favicon: null
+layout_spectrum: 0.24396441085264087
+typography_spectrum: 0.08676888118498027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4604630887042731
+  lightness: 0.8127655691932887
+  saturation: 0.6808876988943666
+  rhythmicContrast: 0.9045649755280465
+purpose: []
